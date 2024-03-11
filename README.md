@@ -1,16 +1,2 @@
-# demo10_websocket
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 简单的demo项目
+本Flutter项目采用`websocket`做长连接，传输协议采用Google的`protobuf`。对应的后端项目代码使用的是Java，[主要技术是netty, 传送门](https://github.com/YeFei572/netty-demo01)
